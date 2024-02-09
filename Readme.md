@@ -47,8 +47,6 @@ The `docker-entrypoint.sh` script performs the following actions:
 Note: Running the container with `--privileged` is necessary for network manipulation and to allow Tailscale to configure the network properly.
 
 ## Run on Fly.io
-
-
     ```
     fly run . sleep infinity
     ```
