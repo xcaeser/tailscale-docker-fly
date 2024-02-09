@@ -1,0 +1,7 @@
+# fly.toml app configuration file generated for malongo-holy-dawn-5069 on 2024-01-06T19:57:29+01:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = "loof-vpn"
+primary_region = "cdg"
