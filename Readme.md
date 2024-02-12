@@ -1,4 +1,5 @@
-# Dockerized Tailscale Exit Node Setup
+# Your own simple VPN based on Tailscale
+### Dockerized Tailscale Exit Node Setup
 
 This Docker setup guide details how to create a containerized Tailscale exit node using Ubuntu as the base image. The exit node allows devices on your Tailscale network to access the internet through this container's network connection.
 
